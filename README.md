@@ -3,14 +3,9 @@
 
 ## Features
 
-1. It modularizes the consensus clustering processes that various methods can
-   be easily integrated in different steps of the analysis.
-2. It provides rich visualizations for intepreting the results.
-3. It allows running multiple methods at the same time and provides
-   functionalities to compare results in a straightforward way.
-4. It provides a new method to extract features which are more efficient to
-   separate subgroups.
-5. It generates detailed HTML reports for the complete analysis.
+1. It can detect subgroups which show major differences and also moderate differences.
+2. It can detect subgroups with large sizes as well as with tiny sizes.
+3. It generates detailed HTML reports for the complete analysis.
 
 ## Install
 
@@ -31,7 +26,7 @@ install_github("jokergoo/cola")
 
 ## Hierarchical Consensus Partitioning
 
-<img width="700" src="https://user-images.githubusercontent.com/449218/100007575-90bfcf80-2dcc-11eb-8fd1-99d0011674b7.png" />
+<img width="500" src="https://user-images.githubusercontent.com/449218/100007575-90bfcf80-2dcc-11eb-8fd1-99d0011674b7.png" />
 
 The steps are:
 
@@ -76,10 +71,13 @@ cola_report(rh, output_dir = ...)
 
 ### Plots
 
-Following plots compare consensus heatmaps with k = 4 under all combinations of methods.
+Following figure shows the hierarchy of the subgroups.
 
-<img src="https://user-images.githubusercontent.com/449218/52631118-3a66f280-2ebe-11e9-8dea-0172d9beab91.png" />
+<img src="https://user-images.githubusercontent.com/449218/100008118-4d199580-2dcd-11eb-9dd5-8a3b91a54bfb.png" />
 
+Following figure shows the signature genes.
+
+<img src="https://user-images.githubusercontent.com/449218/100008229-70dcdb80-2dcd-11eb-9099-f68a71c45d12.png" />
 
 ## License
 
