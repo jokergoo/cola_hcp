@@ -63,9 +63,7 @@ Three lines of code to perfrom hierarchical consensus partitioning analysis:
 
 ```r
 mat = adjust_matrix(mat) # optional
-rh = hierarchical_partition(
-    mat, 
-    mc.cores = ...)
+rh = hierarchical_partition(mat, mc.cores = ...)
 cola_report(rh, output_dir = ...)
 ```
 
