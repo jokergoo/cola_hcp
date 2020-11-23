@@ -73,11 +73,11 @@ cola_report(rh, output_dir = ...)
 
 Following figure shows the hierarchy of the subgroups.
 
-<img src="https://user-images.githubusercontent.com/449218/100008118-4d199580-2dcd-11eb-9dd5-8a3b91a54bfb.png" />
+<img src="https://user-images.githubusercontent.com/449218/100014572-d7b2c280-2dd6-11eb-9265-a84d324122f2.png" />
 
 Following figure shows the signature genes.
 
-<img src="https://user-images.githubusercontent.com/449218/100008229-70dcdb80-2dcd-11eb-9099-f68a71c45d12.png" />
+<img src="https://user-images.githubusercontent.com/449218/100014657-f913ae80-2dd6-11eb-9bf7-53f733e9f8f0.png" />
 
 ## License
 
