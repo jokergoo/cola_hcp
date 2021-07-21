@@ -1,0 +1,3 @@
+[submodule "cola"]
+	path = cola
+	url = https://github.com/jokergoo/cola.git
