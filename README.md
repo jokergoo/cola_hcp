@@ -82,7 +82,6 @@ Following figure shows the signature genes.
 |[RichardTCell](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)              |      572|scRNASeq                    |https://cola-rh.github.io/RichardTCell/              |
 |[RomanovBrai](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)               |     2881|scRNASeq                    |https://cola-rh.github.io/RomanovBrai/               |
 |[SegerstolpePancreas](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)       |     3514|scRNASeq                    |https://cola-rh.github.io/SegerstolpePancreas/       |
-|[UsoskinBrain](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)              |      864|scRNASeq                    |https://cola-rh.github.io/UsoskinBrain/              |
 |[TasicBrain](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)                |     1809|scRNASeq                    |https://cola-rh.github.io/TasicBrain/                |
 |[ReprocessedAllen](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)          |      379|scRNASeq                    |https://cola-rh.github.io/ReprocessedAllen/          |
 |[XinPancreas](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)               |     1600|scRNASeq                    |https://cola-rh.github.io/XinPancreas/               |
