@@ -41,6 +41,10 @@ rh = hierarchical_partition(mat, mc.cores = ...)
 cola_report(rh, output_dir = ...)
 ```
 
+### Documentation
+
+The documentation is included in the **cola** package: https://jokergoo.github.io/cola_vignettes/hierarchical.html
+
 ### Plots
 
 Following figure shows the hierarchy of the subgroups.
